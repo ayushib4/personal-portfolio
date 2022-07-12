@@ -1,6 +1,6 @@
 # Hobbies
 
-## Dance
+## Dance 💃
 #### Dancing Dil Se
 
 Immediately after I graduated elementary school, I started my first company, a dance company to teach Bollywood Fusion. Being responsible for all aspects of a dance production—music, choreography, costumes, props, competitions—as a middle-schooler was no easy feat. My star-team, the Bollywood Divas, was a group of girls, most of whom had never danced before. To teach someone dance for the first time is an incredible experience, but to teach someone who doesn't know you to dance is a gratifying experience. The first year they competed against teams from professional dance schools, they earned third place. The second year, second place. The third year—first place. 
@@ -101,7 +101,7 @@ I might have moved to a new state, but my passion for dance remained intact. Wit
 
 <br><br>
 
-## Artwork
+## Artwork 🎨
 I enjoy drawing cartoons, using charcoal, writing calligraphy, and finding ways to personalize almost anything I own. 
 
 <!-- Row -->
