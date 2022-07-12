@@ -1,0 +1,20 @@
+{
+    "name": "ayushi-batwara",
+    "description": "Personal Portfolio",
+    "version": "0.0.1",
+    "maintainers": [
+      {
+        "name": "Ayushi Batwara"
+      }
+    ],
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/ayushib4/personal-portfolio"
+    },
+    "license": "Copyright ©2022 Ayushi Batwara",
+    "scripts": {
+      "build": "honkit build",
+      "serve": "honkit serve"
+    },
+    "homepage": "http://ayushibatwara.com/"
+  }
