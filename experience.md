@@ -4,7 +4,7 @@
 
 #### Dell Technologies
 *Software Engineering Intern*
-* Designed and developed APIs to address targeted enterprise customer use-cases for multi-cloud management via Dell’s cloud platform using Swagger, Boto3 API, FastAPI, RegEx
+* Designed and developed APIs to address targeted enterprise customer use-cases for multi-cloud management via Dell’s cloud platform using Swagger, Boto3 API, FastAPI
 * Developed visualizations to manage cloud inventory natively in AWS
 * Participated in Dell’s Internal Hackathon and created an internal “Discover Intern” tool with Python and the Tkinter library
 
