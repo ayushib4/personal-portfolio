@@ -20,7 +20,7 @@
 Hi, I'm Ayushi! I'm a student in the **[Management, Entrepreneurship, and Technology (M.E.T.) Program](https://met.berkeley.edu/)** at the University of California, Berkeley, where I'm pursuing a dual degree in EECS (Electrical Engineering & Computer Sciences) and Business from the Haas School of Business. 
 
 
-I'm a **builder** 🔨. In the past, I've started a [dance company](/hobbies/hobbies.md#dance), created a simulation to educate 2.5M+ youth about racial inequities in medicine, and won national hackathons. Now, I'm building **software solutions to drive humanity forward**. 
+I'm a **builder** 🔨. In the past, I've started a [dance company](/hobbies.md#dance-💃), created a simulation to educate 2.5M+ youth about racial inequities in medicine, and won national hackathons. Now, I'm building **software solutions to drive humanity forward**. 
 
 I'm currently working at the **intersection of computer science 💻 and medicine 🧬**, using machine learning as a tool to advance public health efforts. I'm leading machine learning development at a Berkeley SkyDeck-backed health-tech startup, working on integrating real-time climate and weather data with individual health data. My technical interests lie in **machine learning and full-stack development ⚙️**. As a software engineering intern at Dell Technologies, I've gained practical experience creating enterprise-grade SaaS products. 
 
